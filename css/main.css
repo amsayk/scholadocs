@@ -499,3 +499,5 @@ section#content aside .fb-like { top: 4px; left: 4px; }
 a { text-decoration: none; color: #CC2E39; }
 
 nav#toc a { color: #444; }
+
+#\_ { display: none; }
